@@ -1,6 +1,6 @@
 var playlist = {
   Zayn: 'pillow talk'
 };
-function updatePlaylist(playlist, artistName, value){
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
